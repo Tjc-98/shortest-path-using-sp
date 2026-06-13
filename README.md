@@ -16,7 +16,7 @@ Run the program and enter a source vertex, a destination vertex, and a middle ve
 
 ### Prerequisites
 
-- Java 11 or later
+- Java 21 or later
 - `NYC.txt` in the working directory
 
 ### Building
